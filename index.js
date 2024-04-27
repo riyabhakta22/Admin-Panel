@@ -33,7 +33,7 @@ app.get('/contact', function (req, res) {
 })
 // app.get('/service', function (req, res) {
 //     res.render('./Views/Pages/Service')
-// })
+// })                        
 
 app.listen(8000, () => {
     console.log('App is running on port 8000..');
